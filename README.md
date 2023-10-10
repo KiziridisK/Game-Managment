@@ -1,5 +1,8 @@
 # Game Managment
- 
+Simple HTML, CSS, PHP project for game managment. 
+A user can register using the sign up form and use the website to 
+add, delete, edit and view the game he/she has played.
+
 Game Managment - Οδηγίες εγκατάστασης/χρήσης
 
 Βήμα 1ο: Κατεβάστε το project απ' το github reposiroty και αποσυμπιέστε το.
